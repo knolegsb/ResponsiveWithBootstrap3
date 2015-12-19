@@ -66,9 +66,37 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="ColumnDrop.html" />
+    <Content Include="Content\animate.css" />
+    <Content Include="Content\font-awesome.css" />
+    <Content Include="Content\font-awesome.min.css" />
+    <Content Include="Content\font\nano_icon_font3.svg" />
+    <Content Include="fonts\fontawesome-webfont.svg" />
+    <Content Include="images\backpack.png" />
     <Content Include="images\favicon.ico" />
+    <Content Include="images\lake-dark.jpg" />
+    <Content Include="images\map.png" />
+    <Content Include="images\photos\buller-lake.jpg" />
+    <Content Include="images\photos\canada.jpg" />
+    <Content Include="images\photos\landscape.jpg" />
+    <Content Include="images\photos\mountain-flowers.jpg" />
+    <Content Include="images\photos\road-sign.jpg" />
+    <Content Include="images\photos\rockies.jpg" />
+    <Content Include="images\photos\scale-mountain.jpg" />
+    <Content Include="images\photos\sit-on-mountain.jpg" />
+    <Content Include="images\pic.png" />
+    <Content Include="images\site-logo-white-70pct.png" />
+    <Content Include="images\site-logo-white.png" />
     <Content Include="packages.config" />
     <Content Include="Scripts\jquery-1.9.0.min.map" />
+    <Content Include="fonts\FontAwesome.otf" />
+    <Content Include="fonts\fontawesome-webfont.woff2" />
+    <Content Include="fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\fontawesome-webfont.eot" />
+    <Content Include="Content\font\nano_icon_font3.eot" />
+    <Content Include="Content\font\nano_icon_font3.ttf" />
+    <Content Include="Content\font\nano_icon_font3.woff" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

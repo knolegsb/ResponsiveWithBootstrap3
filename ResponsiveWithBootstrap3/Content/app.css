@@ -37,7 +37,7 @@ aside{
     color: darkblue;
 }
 
-.sports-icon-list{
+.sports-icon-list {
     background-color: #333;
     padding-bottom: 40px;
 }
@@ -56,13 +56,13 @@ aside{
     height: 70px;
 }
 
-.sports-icon-list div{
+.sports-list-top div {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
 }
 
-.sports-icon-list a{
+.sports-list-top a {
     margin-left: 30px;
     margin-right: 30px;
     display: inline-block;
